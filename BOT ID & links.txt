@@ -1,0 +1,9 @@
+ID : 857457289397141535
+
+Invite link : https://discord.com/api/oauth2/authorize?client_id=857457289397141535&permissions=0&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D857457289397141535%26scope%3Dbot%26permissions%3D1&scope=bot
+
+Token : ODU3NDU3Mjg5Mzk3MTQxNTM1.YNP3VA.lSBwkuUPk-r9AaNmOddrMbjQxoE
+
+Image : https://www.pexel.com/photo/person-holding-terrestrial-globe-scale-model-taken-1079033/
+
+Template string : ''
